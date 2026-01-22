@@ -26,7 +26,10 @@ It contains end-to-end projects demonstrating **ETL, EDA, feature engineering, M
 - **Skills**: ETL, EDA, ML, SMOTE, hyperparameter tuning, deployment concepts  
 - **Notebooks**:  
   - `CreditCardFraud_sample.ipynb` (small real sample)  
-  - `CreditCardFraud_Full_ETL_Demo.ipynb` (full dataset)  
+  - `CreditCardFraud_Full_ETL_Demo.ipynb` (full dataset)
+- **Data**:
+ - Sample dataset: creditcard_sample.csv
+ - Full dataset via Kaggle: Credit Card Fraud Dataset 
 
 #### 2. Sales Analysis
 - **Purpose**: Monthly sales analysis and visualization  
